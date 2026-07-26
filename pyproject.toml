@@ -11,6 +11,7 @@ dependencies = [
     "flet-permission-handler>=0.86.2",
     "httpx>=0.28.1",
     "loguru>=0.7.3",
+    "pyjnius>=1.7.0",
 ]
 
 [dependency-groups]
